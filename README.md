@@ -1,10 +1,16 @@
 # House price prediction in King County, USA: A Regression Approach
 In this project, we will develop a model that predicts house prices using regression in King County, WA. 
 
-### Dataset
+  <img src='https://www.racialequityalliance.org/wp-content/uploads/2016/10/assessors_social-1.jpg'>
+<a href='https://www.kaggle.com/code/shiv28/house-price-prediction-in-king-county-usa' target=_blank>
+    
+    You can find the data here.
+</a>
+
+## Dataset
 The data has been obtained from the Kaggle project. This dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015.
 
-Data Dictionary:
+### Data Dictionary:
 <ul>
     <li><strong>id:</strong> A notation for a house</li>
     <li><strong>date:</strong> Date house was sold</li>
@@ -29,24 +35,15 @@ Data Dictionary:
     <li><strong>sqft_lot15:</strong> LotSize area in 2015 (implies-- some renovations)</li>
 </ul>
 
-### Data Analysis
+## Data Analysis
 - Exploratory Data Analysis (EDA) has been performed to gain insights into the dataset.
 - Descriptive statistics, correlation analysis, and visualization techniques have been utilized to understand the relationships between variables and identify potential patterns.
         
-### Data Preprocessing
+## Data Preprocessing
 - Outliers have been identified and removed from the dataset.
 - Feature engineering techniques have been applied to derive new features and enhance the predictive power of the model.
 - Categorical variables have been encoded for model compatibility. 
     
-### Model Development
+## Model Development
 - Various regression models such as Linear Regression, KNeighbors Regressor, Gradient Boosting Regressor, Extra Tree Regressor, Decision Tree Regressor, and XGBoost Regressor have been implemented.
 - Model performance has been evaluated using metrics such as R-squared (R2), Mean Squared Error (MSE), and Mean Absolute Error (MAE).
-        
-
-  <img src='https://www.racialequityalliance.org/wp-content/uploads/2016/10/assessors_social-1.jpg'>
-<a href='https://www.kaggle.com/code/shiv28/house-price-prediction-in-king-county-usa' target=_blank>
-    
-    You can find the data here.
-
-</a>
-
