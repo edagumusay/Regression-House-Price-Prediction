@@ -29,27 +29,24 @@ Data Dictionary:
     <li><strong>sqft_lot15:</strong> LotSize area in 2015 (implies-- some renovations)</li>
 </ul>
 
-        <li><h3>Data Analysis</h3>
+        <h3>Data Analysis</h3>
  * Exploratory Data Analysis (EDA) has been performed to gain insights into the dataset.
 * Descriptive statistics, correlation analysis, and visualization techniques have been utilized to understand the relationships between variables and identify potential patterns. 
-        </li>
         
-        <li><h3>Data Preprocessing</h3>
+       <h3>Data Preprocessing</h3>
   * Outliers have been identified and removed from the dataset.
   * Feature engineering techniques have been applied to derive new features and enhance the predictive power of the model.
   * Categorical variables have been encoded for model compatibility. 
-        </li>
-        
-        <li><h3>Model Development</h3>
+    
+        <h3>Model Development</h3>
 * Various regression models such as Linear Regression, KNeighbors Regressor, Gradient Boosting Regressor, Extra Tree Regressor, Decision Tree Regressor, and XGBoost Regressor have been implemented.
 * Model performance has been evaluated using metrics such as R-squared (R2), Mean Squared Error (MSE), and Mean Absolute Error (MAE).
-        </li>
         
 
   <img src='https://www.racialequityalliance.org/wp-content/uploads/2016/10/assessors_social-1.jpg'>
 <a href='https://www.kaggle.com/code/shiv28/house-price-prediction-in-king-county-usa' target=_blank>
     
-    </br> You can find the data here.
+    You can find the data here.
 
 </a>
 
