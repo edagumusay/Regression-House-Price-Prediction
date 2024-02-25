@@ -1,7 +1,7 @@
 # House price prediction in King County, USA: A Regression Approach
 In this project, we will develop a model that predicts house prices using regression in King County, WA. 
 
-<h3>Dataset</h3>
+### Dataset
 The data has been obtained from the Kaggle project. This dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015.
 
 Data Dictionary:
@@ -29,16 +29,16 @@ Data Dictionary:
     <li><strong>sqft_lot15:</strong> LotSize area in 2015 (implies-- some renovations)</li>
 </ul>
 
-<h3>Data Analysis</h3>
+### Data Analysis
 - Exploratory Data Analysis (EDA) has been performed to gain insights into the dataset.
-- Descriptive statistics, correlation analysis, and visualization techniques have been utilized to understand the relationships between variables and identify potential patterns. 
+- Descriptive statistics, correlation analysis, and visualization techniques have been utilized to understand the relationships between variables and identify potential patterns.
         
-<h3>Data Preprocessing</h3>
+### Data Preprocessing
 - Outliers have been identified and removed from the dataset.
 - Feature engineering techniques have been applied to derive new features and enhance the predictive power of the model.
 - Categorical variables have been encoded for model compatibility. 
     
-<h3>Model Development</h3>
+### Model Development
 - Various regression models such as Linear Regression, KNeighbors Regressor, Gradient Boosting Regressor, Extra Tree Regressor, Decision Tree Regressor, and XGBoost Regressor have been implemented.
 - Model performance has been evaluated using metrics such as R-squared (R2), Mean Squared Error (MSE), and Mean Absolute Error (MAE).
         
