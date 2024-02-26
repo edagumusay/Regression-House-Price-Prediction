@@ -7,16 +7,15 @@ In this project, we will develop a model that predicts house prices using regres
     You can find the data here.
 </a>
 
-## Files and Directories
+## Files
 
 #### 1. Exploratory Data Analysis (EDA) and Model Development
-- **File**: `analysis_and_model.html`
-- **Description**: This HTML file contains all the steps performed in the project, including exploratory data analysis (EDA), feature engineering, model training, and evaluation. Note that this file has been converted from an IPython Notebook (`.ipynb`) to HTML format for better accessibility.
+- **File**: `analysis_and_model.ipynb`
+- **Description**: This file contains all the steps performed in the project, including exploratory data analysis (EDA), feature engineering, model training, and evaluation.
 
 #### 2. Regression Model Implementation
 - **File**: `model.py`
 - **Description**: The `model.py` file includes the implementation of the regression model. It contains the code for data preprocessing, feature engineering, model training, and evaluation. This file specifically focuses on the regression model development.
-
 
 ## Dataset
 The data has been obtained from the Kaggle project. This dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015.
