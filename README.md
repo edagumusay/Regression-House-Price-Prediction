@@ -17,14 +17,6 @@ In this project, we will develop a model that predicts house prices using regres
 - **File**: `model.py`
 - **Description**: The `model.py` file includes the implementation of the regression model. It contains the code for data preprocessing, feature engineering, model training, and evaluation. This file specifically focuses on the regression model development.
 
-Make sure you have installed the necessary Python libraries required for running the code. These libraries include:
-- pandas
-- scikit-learn
-- matplotlib
-- seaborn
-- xgboost
-- numpy
-
 ## Dataset
 The data has been obtained from the Kaggle project. This dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015.
 
