@@ -7,7 +7,7 @@ In this project, we will develop a model that predicts house prices using regres
     You can find the data here.
 </a>
 
-## Files and Directories
+## Files
 
 #### 1. Exploratory Data Analysis (EDA) and Model Development
 - **File**: `analysis_and_model.ipynb`
