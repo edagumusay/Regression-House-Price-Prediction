@@ -9,11 +9,11 @@ In this project, we will develop a model that predicts house prices using regres
 
 ## Files and Directories
 
-### 1. Exploratory Data Analysis (EDA) and Model Development
+#### 1. Exploratory Data Analysis (EDA) and Model Development
 - **File**: `analysis_and_model.html`
 - **Description**: This HTML file contains all the steps performed in the project, including exploratory data analysis (EDA), feature engineering, model training, and evaluation. It provides comprehensive insights into the dataset and the developed regression model.
 
-### 2. Regression Model Implementation
+#### 2. Regression Model Implementation
 - **File**: `RegressionModel.py`
 - **Description**: The `model.py` file includes the implementation of the regression model. It contains the code for data preprocessing, feature engineering, model training, and evaluation. This file specifically focuses on the regression model development.
 
