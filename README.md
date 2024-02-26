@@ -42,7 +42,10 @@ The data has been obtained from the Kaggle project. This dataset contains house 
 ## Data Preprocessing
 - Outliers have been identified and removed from the dataset.
 - Feature engineering techniques have been applied to derive new features and enhance the predictive power of the model.
-- Categorical variables have been encoded for model compatibility. 
+- Categorical variables have been encoded for model compatibility.
+
+## Final Results
+- The XGBRegressor yielded the best result with an R-squared score of 0.842439 and an Root Mean Square Error (RMSE) of 84547.143342.
     
 ## Model Development
 - Various regression models such as Linear Regression, KNeighbors Regressor, Gradient Boosting Regressor, Extra Tree Regressor, Decision Tree Regressor, and XGBoost Regressor have been implemented.
